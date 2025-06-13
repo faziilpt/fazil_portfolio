@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fazil-659bc"
+  },
+  "targets": {
+    "fazil-659bc": {
+      "hosting": {
+        "fazilpt": [
+          "fazil-659bc"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
